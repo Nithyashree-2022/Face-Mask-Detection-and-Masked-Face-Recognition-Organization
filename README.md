@@ -1,0 +1,2 @@
+# Face-Mask-Detection-and-Masked-Face-Recognition-Organization
+The project uses Computer Vision and Deep Learning to detect if an individual entering the organization is masked or not using CNN on the given video input. If not masked, mail a pandemic alert along with the individual’s photo to the security using SMTP.If masked, recognize the masked individual through image subtraction. Mail an organization alert to the security along with the individual’s photo using SMTP if the masked individual is not an employee of the organization.
